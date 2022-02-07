@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101347606680",
+    "project_id": "testchattingapp-f7019",
+    "storage_bucket": "testchattingapp-f7019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101347606680:android:504e0f0a908adc5eadd0ed",
+        "android_client_info": {
+          "package_name": "com.example.testchattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101347606680-nfsh8ndpr5kcnnm594adcqsggfm4hpef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwmz0gaZPnZtBIRUDKSywuFcTb3aey62k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101347606680-nfsh8ndpr5kcnnm594adcqsggfm4hpef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
